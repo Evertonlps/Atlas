@@ -56,3 +56,4 @@ O Atlas remove todos os tipos de rastreamento embutidos no Windows e implementa 
 ### **Seguro**
 
 O Atlas visa ser o mais seguro possível sem perder desempenho. Fazemos isso desativando recursos que podem vazar informações ou serem explorados. Há exceções a isso, como [Spectre](https://spectreattack.com/spectre.pdf) e [Meltdown](https://meltdownattack.com/meltdown.pdf). Essas mitigações são desativadas para melhorar o desempenho.
++ Se instalar em Inglês, o idioma Português estará disponível - pré instalado para mudança nas configurações.
